@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608721599495",
+    "project_id": "inotask-51010",
+    "storage_bucket": "inotask-51010.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608721599495:android:2b8e682a79491af8b2fea2",
+        "android_client_info": {
+          "package_name": "com.example.inotask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu96s9_yMDy8YWKf27ulDFu-VF7gk8ei4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
